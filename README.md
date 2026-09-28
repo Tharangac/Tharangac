@@ -1,17 +1,12 @@
-### Hey, I'm Tharanga (aka TC) 👋
+## Hi, I'm Tharanga. Most people call me TC 👋
 
-```console
-$ whoami
-Co-founder & Head of Technology @ Equerra · Microsoft MVP, Business Applications (since 2016)
-Longest-running Business Central MVP in ANZ · Auckland, New Zealand 🇳🇿
+I'm co-founder and Head of Technology at **[Equerra](https://equerra.com)**, a Microsoft partner in New Zealand. We build Business Central solutions, integrations and AI-enabled products for businesses across Australia and New Zealand.
 
-$ history | head -2
-.NET developer → Dynamics NAV (learned it from 12 PDFs and a lot of late nights) → Business Central
-15+ years, 80+ projects, NAV through to modern BC
+I started out as a .NET developer and moved into Dynamics NAV when most of my team left. I learned it from twelve PDFs and a lot of late nights, and wrote up everything I figured out as I went. Writing things down publicly like that led to my first Microsoft MVP award in 2016, and I've been an MVP every year since. Fifteen years and 80+ projects later, I still write up what I learn.
 
-$ cat focus.txt
-Business Central architecture · Azure Integration Services · AI agents & Copilot adoption
-```
+| 🏆 Microsoft MVP | 🌏 Community | 📍 Based in |
+|:---:|:---:|:---:|
+| Business Applications, since 2016<br>Longest-running BC MVP in ANZ | Co-organiser of the Auckland BC User Group<br>and Days of Knowledge ANZ | Auckland, New Zealand |
 
 [![Blog](https://img.shields.io/badge/Blog-tharangac.com-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://tharangac.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tharangac-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharangac)
@@ -24,7 +19,6 @@ Business Central architecture · Azure Integration Services · AI agents & Copil
 
 ## 🔭 Currently
 
-- 🏗️ Building Business Central solutions, integrations and AI-enabled products at **[Equerra](https://equerra.com)**
 - 🤖 Designing and shipping **agents in Business Central** with the AI Toolkit, and helping teams move from *talking* about AI to actually adopting it
 - 🔌 Rethinking **integration architecture** for BC: Azure Integration Services, Logic Apps, and life after OData deprecation
 - 🎤 Planning the next **Days of Knowledge ANZ** after a sold-out 2026 in Melbourne
