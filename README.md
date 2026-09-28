@@ -77,36 +77,36 @@ codeunit 50100 "Tharanga Chandrasekara"
 | TBC | *Next event announced soon* | | Want me at your event? [Get in touch](mailto:hello@tharangac.com) |
 
 <!-- Add confirmed talks above the TBC row, e.g.
-| Nov 2026 | Directions EMEA 2026 | City, Country | Session title |
+| Nov&nbsp;2026 | Directions EMEA 2026 | City, Country | Session title |
 -->
 
 ### 📼 Past
 
 | When | Event | Where | Session / role |
 |---|---|---|---|
-| Sep 2026 | Directions Days of Knowledge ANZ | Melbourne, AU | Co-organiser & speaker |
-| Jun 2026 | BC TechDays 2026 | Antwerp, BE | *Designing Modern Integrations in Business Central* (with Vlad Leonov) |
-| May 2026 | Auckland BC User Group | Auckland, NZ | *What's New in BC: Field Report from Directions Asia 2026* |
-| May 2026 | Directions ASIA 2026 | Ho Chi Minh City, VN | *Building Intelligent Agents in Business Central: Design, Develop and Deploy with the AI Toolkit* |
-| May 2026 | Directions ASIA 2026 | Ho Chi Minh City, VN | *Improve Enterprise Integrations using Azure Integration Services* (with Steve Gichure) |
-| Nov 2025 | Directions EMEA 2025 | | |
-| Jun 2025 | BC TechDays 2025 | Antwerp, BE | |
-| May 2025 | Directions ASIA 2025 | Bangkok, TH | |
+| Sep&nbsp;2026 | Directions Days of Knowledge ANZ | Melbourne, AU | Co-organiser & speaker |
+| Jun&nbsp;2026 | BC TechDays 2026 | Antwerp, BE | *Designing Modern Integrations in Business Central* (with Vlad Leonov) |
+| May&nbsp;2026 | Auckland BC User Group | Auckland, NZ | *What's New in BC: Field Report from Directions Asia 2026* |
+| May&nbsp;2026 | Directions ASIA 2026 | Ho Chi Minh City, VN | *Building Intelligent Agents in Business Central: Design, Develop and Deploy with the AI Toolkit* |
+| May&nbsp;2026 | Directions ASIA 2026 | Ho Chi Minh City, VN | *Improve Enterprise Integrations using Azure Integration Services* (with Steve Gichure) |
+| Nov&nbsp;2025 | Directions EMEA 2025 | | |
+| Jun&nbsp;2025 | BC TechDays 2025 | Antwerp, BE | |
+| May&nbsp;2025 | Directions ASIA 2025 | Bangkok, TH | |
 
 <details>
 <summary><b>2019 to 2024</b></summary>
 
 | When | Event | Where |
 |---|---|---|
-| Nov 2024 | BC Day ANZ 2024 | Sydney, AU |
-| Nov 2024 | Directions EMEA 2024 | Vienna, AT |
-| May 2024 | Directions ASIA 2024 | Bangkok, TH |
-| Oct 2023 | Directions EMEA 2023 | Lyon, FR |
-| Jun 2023 | BC TechDays 2023 | Antwerp, BE |
-| Apr 2023 | Directions ASIA 2023 | Bangkok, TH |
-| Nov 2022 | Directions EMEA 2022 | Hamburg, DE |
-| Nov 2021 | NZ Business Applications Summit 2021 | NZ |
-| Nov 2019 | NAV TechDays 2019 | Antwerp, BE |
+| Nov&nbsp;2024 | BC Day ANZ 2024 | Sydney, AU |
+| Nov&nbsp;2024 | Directions EMEA 2024 | Vienna, AT |
+| May&nbsp;2024 | Directions ASIA 2024 | Bangkok, TH |
+| Oct&nbsp;2023 | Directions EMEA 2023 | Lyon, FR |
+| Jun&nbsp;2023 | BC TechDays 2023 | Antwerp, BE |
+| Apr&nbsp;2023 | Directions ASIA 2023 | Bangkok, TH |
+| Nov&nbsp;2022 | Directions EMEA 2022 | Hamburg, DE |
+| Nov&nbsp;2021 | NZ Business Applications Summit 2021 | NZ |
+| Nov&nbsp;2019 | NAV TechDays 2019 | Antwerp, BE |
 | 2019 | D365 Saturday | |
 
 </details>
