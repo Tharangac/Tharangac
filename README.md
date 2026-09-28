@@ -72,42 +72,42 @@ codeunit 50100 "Tharanga Chandrasekara"
 
 ### 🗓️ Upcoming
 
-| When | Event | Where | Session |
+| When | Event | Where | Session(s) |
 |---|---|---|---|
-| TBC | *Next event announced soon* | | Want me at your event? [Get in touch](mailto:hello@tharangac.com) |
+| Oct&nbsp;2026 | **Directions EMEA 2026** | Paris, FR | *When APIs Are Not Enough: Azure Messaging + Power Automate for Business Central* |
 
-<!-- Add confirmed talks above the TBC row, e.g.
-| Nov&nbsp;2026 | Directions EMEA 2026 | City, Country | Session title |
+<!-- Add confirmed talks here, e.g.
+| Mon&nbsp;YYYY | Event | City, CC | *Session title* |
 -->
 
 ### 📼 Past
 
-| When | Event | Where | Session / role |
+| When | Event | Where | Session(s) |
 |---|---|---|---|
-| Sep&nbsp;2026 | Directions Days of Knowledge ANZ | Melbourne, AU | Co-organiser & speaker |
+| Sep&nbsp;2026 | **Directions Days of Knowledge ANZ** | Melbourne, AU | 🧑‍🤝‍🧑 Co-organiser<br>*We Let AI Write Our AL for a Year: Here Is What Broke and What We Kept* |
 | Jun&nbsp;2026 | BC TechDays 2026 | Antwerp, BE | *Designing Modern Integrations in Business Central* (with Vlad Leonov) |
 | May&nbsp;2026 | Auckland BC User Group | Auckland, NZ | *What's New in BC: Field Report from Directions Asia 2026* |
-| May&nbsp;2026 | Directions ASIA 2026 | Ho Chi Minh City, VN | *Building Intelligent Agents in Business Central: Design, Develop and Deploy with the AI Toolkit* |
-| May&nbsp;2026 | Directions ASIA 2026 | Ho Chi Minh City, VN | *Improve Enterprise Integrations using Azure Integration Services* (with Steve Gichure) |
-| Nov&nbsp;2025 | Directions EMEA 2025 | | |
-| Jun&nbsp;2025 | BC TechDays 2025 | Antwerp, BE | |
-| May&nbsp;2025 | Directions ASIA 2025 | Bangkok, TH | |
+| May&nbsp;2026 | Directions ASIA 2026 | Ho Chi Minh City, VN | *Building Intelligent Agents in Business Central: Design, Develop and Deploy with the AI Toolkit*<br>*Improve Enterprise Integrations using Azure Integration Services!* (with Steve Gichure) |
+| Nov&nbsp;2025 | **BC Day ANZ 2025** | Sydney, AU | 🧑‍🤝‍🧑 Co-organiser<br>*It's Cool. It's Coming. And it's still a secret!* Agents session (with Tom Kapitan)<br>*Power Apps + Business Central: Transform Ideas into Apps with Copilot* (with Steve Gichure) |
+| Nov&nbsp;2025 | Directions EMEA 2025 | Poznań, PL | *From Prompt to Power App: Use Copilot to Build Business Central-Connected Apps Fast* (with Steve Gichure)<br>*Real-World Messaging with Azure: Patterns That Power Your Integrations* (with Steve Gichure) |
+| Jun&nbsp;2025 | BC TechDays 2025 | Antwerp, BE | *Integration Without Aggravation: Best Practices for Business Central* (with Vlad Leonov) |
+| May&nbsp;2025 | Directions ASIA 2025 | Bangkok, TH | *App Building, Simplified: Power Apps + Copilot + Business Central* (with Steve Gichure)<br>*From Chaos to Connectivity: Integration Best Practices with Power Automate & Azure Services* (with Steve Gichure) |
 
 <details>
 <summary><b>2019 to 2024</b></summary>
 
-| When | Event | Where |
-|---|---|---|
-| Nov&nbsp;2024 | BC Day ANZ 2024 | Sydney, AU |
-| Nov&nbsp;2024 | Directions EMEA 2024 | Vienna, AT |
-| May&nbsp;2024 | Directions ASIA 2024 | Bangkok, TH |
-| Oct&nbsp;2023 | Directions EMEA 2023 | Lyon, FR |
-| Jun&nbsp;2023 | BC TechDays 2023 | Antwerp, BE |
-| Apr&nbsp;2023 | Directions ASIA 2023 | Bangkok, TH |
-| Nov&nbsp;2022 | Directions EMEA 2022 | Hamburg, DE |
-| Nov&nbsp;2021 | NZ Business Applications Summit 2021 | NZ |
-| Nov&nbsp;2019 | NAV TechDays 2019 | Antwerp, BE |
-| 2019 | D365 Saturday | |
+| When | Event | Where | Session(s) |
+|---|---|---|---|
+| Nov&nbsp;2024 | **BC Day ANZ 2024** | Sydney, AU | 🧑‍🤝‍🧑 Co-organiser, keynote introductions and ANZ roundtable (with Tom Kapitan)<br>*We are utilizing Azure's OpenAI to analyze data. Would you like to know more about it?* (with Steve Gichure) |
+| Nov&nbsp;2024 | Directions EMEA 2024 | Vienna, AT | *From Data to Decisions: How to use Azure OpenAI to Enhance Analysis* (with Steve Gichure) |
+| May&nbsp;2024 | Directions ASIA 2024 | Bangkok, TH | *We are utilizing Azure's OpenAI to analyze data. Would you like to know more about it?* (with Steve Gichure) |
+| Nov&nbsp;2023 | Directions EMEA 2023 | Lyon, FR | *Unlocking Seamless Integration: Mastering Messaging Patterns with Azure and Business Central* (with Steve Gichure)<br>*Streamlining Integration Testing in Production: Unleashing the Power of Business Central Interfaces* (with Steve Gichure) |
+| Jun&nbsp;2023 | BC TechDays 2023 | Antwerp, BE | *Feature Management for Continuous Delivery* (with Vlad Leonov) |
+| Apr&nbsp;2023 | Directions ASIA 2023 | Bangkok, TH | *Power Automate or Logic Apps to use?* (with Steve Gichure)<br>*Mistakes made by developers during Business Central integration projects* (with Steve Gichure) |
+| Nov&nbsp;2022 | Directions EMEA 2022 | Hamburg, DE | *Rapid deployment to Business Central and to Azure using BC APIs and Azure DevOps* (with Steve Gichure) |
+| Nov&nbsp;2021 | NZ Business Applications Summit 2021 | Online | *Integrating BC with Power Platform* (with Wagner Silveira) |
+| Nov&nbsp;2019 | NAV TechDays 2019 | Antwerp, BE | *Unlocking new integration potential for Dynamics 365 BC with Azure Event Grid and Azure Integration* (with Dmitry Katson) |
+| Aug&nbsp;2019 | 365 Saturday ANZ tour | Melbourne, Wellington, Auckland, Christchurch | *Integrating Microsoft Dynamics 365 BC with IoT*<br>*Unlocking new integration potential for Dynamics 365 BC with Azure Event Grid and Azure Integration* |
 
 </details>
 
@@ -117,7 +117,7 @@ Slides, recordings and write-ups: [Sessionize](https://sessionize.com/tharangac/
 
 | | What | My role |
 |---|---|---|
-| 🇦🇺 | **[Directions Days of Knowledge ANZ](https://tharangac.com/2026/09/days-of-knowledge-anz-the-idea-that-started-in-a-linkedin-message.html)**<br>Two-day BC conference for ANZ partners, devs, consultants and users. Started as a LinkedIn message, grew from Microsoft Reactor Sydney (2024) to the Microsoft Sydney office (2025) to a sold-out Melbourne event (2026). | Co-organiser with Tom Marshall, Tom Kapikan & Torben Kragelund, backed by Directions for Partners and Microsoft |
+| 🇦🇺 | **[Directions Days of Knowledge ANZ](https://tharangac.com/2026/09/days-of-knowledge-anz-the-idea-that-started-in-a-linkedin-message.html)**<br>Two-day BC conference for ANZ partners, devs, consultants and users. Started as a LinkedIn message, grew from Microsoft Reactor Sydney (2024) to the Microsoft Sydney office (2025) to a sold-out Melbourne event (2026). | Co-organiser with Tom Marshall, Tom Kapitan & Torben Kragelund, backed by Directions for Partners and Microsoft |
 | 🇳🇿 | **[Auckland D365 Business Central User Group](https://github.com/Tharangac/usergroup-d365bc-akl-public)**<br>Regular meetups for the Auckland BC community: what's new, field reports, real-world patterns. | Co-organiser |
 | 🌏 | **Directions ANZ Day** | Co-organiser |
 
