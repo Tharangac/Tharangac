@@ -98,7 +98,7 @@ codeunit 50100 "Tharanga Chandrasekara"
 
 | When | Event | Where | Session(s) |
 |---|---|---|---|
-| Nov&nbsp;2024 | **BC Day ANZ 2024** | Sydney, AU | Keynote introductions and ANZ roundtable (with Tom Kapitan)<br>*We are utilizing Azure's OpenAI to analyze data. Would you like to know more about it?* (with Steve Gichure) |
+| Nov&nbsp;2024 | **BC Day ANZ 2024** | Sydney, AU | ANZ Region Roundtable (with Tom Kapitan)<br>*We are utilizing Azure's OpenAI to analyze data. Would you like to know more about it?* (with Steve Gichure) |
 | Nov&nbsp;2024 | Directions EMEA 2024 | Vienna, AT | *From Data to Decisions: How to use Azure OpenAI to Enhance Analysis* (with Steve Gichure) |
 | May&nbsp;2024 | Directions ASIA 2024 | Bangkok, TH | *We are utilizing Azure's OpenAI to analyze data. Would you like to know more about it?* (with Steve Gichure) |
 | Nov&nbsp;2023 | Directions EMEA 2023 | Lyon, FR | *Unlocking Seamless Integration: Mastering Messaging Patterns with Azure and Business Central* (with Steve Gichure)<br>*Streamlining Integration Testing in Production: Unleashing the Power of Business Central Interfaces* (with Steve Gichure) |
