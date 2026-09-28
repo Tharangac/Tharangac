@@ -1,11 +1,11 @@
 ### Hey, I'm Tharanga (aka TC) 👋
 
-```bash
+```console
 $ whoami
 Co-founder & Head of Technology @ Equerra · Microsoft MVP, Business Applications (since 2016)
 Longest-running Business Central MVP in ANZ · Auckland, New Zealand 🇳🇿
 
-$ history | head -3
+$ history | head -2
 .NET developer → Dynamics NAV (learned it from 12 PDFs and a lot of late nights) → Business Central
 15+ years, 80+ projects, NAV through to modern BC
 
@@ -122,22 +122,6 @@ Want to speak at a user group, sponsor an event or help out? [Say hi](mailto:hel
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Copilot](https://img.shields.io/badge/AI-Agents%20%26%20Copilot-6E40C9?style=flat-square&logo=githubcopilot&logoColor=white)
-
-## 📊 GitHub stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="49%" />
-</picture>
 
 ## 🧱 Off the keyboard
 
