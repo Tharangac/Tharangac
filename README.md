@@ -84,7 +84,7 @@ codeunit 50100 "Tharanga Chandrasekara"
 
 | When | Event | Where | Session(s) |
 |---|---|---|---|
-| Sep&nbsp;2026 | **Directions Days of Knowledge ANZ** | Melbourne, AU | *We Let AI Write Our AL for a Year: Here Is What Broke and What We Kept* |
+| Sep&nbsp;2026 | **Directions Days of Knowledge ANZ** | Melbourne, AU | 🧑‍🤝‍🧑 Co-organiser<br>*We Let AI Write Our AL for a Year: Here Is What Broke and What We Kept* |
 | Jun&nbsp;2026 | BC TechDays 2026 | Antwerp, BE | *Designing Modern Integrations in Business Central* (with Vlad Leonov) |
 | May&nbsp;2026 | Auckland BC User Group | Auckland, NZ | *What's New in BC: Field Report from Directions Asia 2026* |
 | May&nbsp;2026 | Directions ASIA 2026 | Ho Chi Minh City, VN | *Building Intelligent Agents in Business Central: Design, Develop and Deploy with the AI Toolkit*<br>*Improve Enterprise Integrations using Azure Integration Services!* (with Steve Gichure) |
