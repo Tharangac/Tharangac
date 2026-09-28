@@ -1,5 +1,3 @@
-<img src="https://github.com/Tharangac.png" width="120" align="right" alt="Tharanga Chandrasekara" />
-
 ### Hey, I'm Tharanga (aka TC) 👋
 
 ```bash
@@ -127,10 +125,19 @@ Want to speak at a user group, sponsor an event or help out? [Say hi](mailto:hel
 
 ## 📊 GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tharangac&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharangac&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+</picture>
 
 ## 🧱 Off the keyboard
 
