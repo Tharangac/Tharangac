@@ -1,12 +1,35 @@
-## Hi, I'm Tharanga. Most people call me TC 👋
+```al
+codeunit 50100 "Tharanga Chandrasekara"
+{
+    // Hi, I'm Tharanga. Most people call me TC 👋
 
-I'm co-founder and Head of Technology at **[Equerra](https://equerra.com)**, a Microsoft partner in New Zealand. We build Business Central solutions, integrations and AI-enabled products for businesses across Australia and New Zealand.
+    var
+        Role: Label 'Co-founder & Head of Technology, Equerra';
+        BasedIn: Label 'Auckland, New Zealand';
+        Recognition: Label 'Microsoft MVP, Business Applications, since 2016';
 
-I started out as a .NET developer and moved into Dynamics NAV when most of my team left. I learned it from twelve PDFs and a lot of late nights, and wrote up everything I figured out as I went. Writing things down publicly like that led to my first Microsoft MVP award in 2016, and I've been an MVP every year since. Fifteen years and 80+ projects later, I still write up what I learn.
+    procedure Background()
+    begin
+        StartedAs('.NET developer');
+        MovedTo('Dynamics NAV'); // learned it from 12 PDFs and a lot of late nights
+        NowBuilding('Business Central');
+        // 15+ years, 80+ projects, and I still write up what I learn
+    end;
 
-| 🏆 Microsoft MVP | 🌏 Community | 📍 Based in |
-|:---:|:---:|:---:|
-| Business Applications, since 2016<br>Longest-running BC MVP in ANZ | Co-organiser of the Auckland BC User Group<br>and Days of Knowledge ANZ | Auckland, New Zealand |
+    procedure Focus() Topics: List of [Text]
+    begin
+        Topics.Add('Business Central architecture');
+        Topics.Add('Azure Integration Services');
+        Topics.Add('AI agents & Copilot adoption');
+    end;
+
+    [EventSubscriber(ObjectType::Codeunit, Codeunit::"BC Community", OnMeetup, '', false, false)]
+    local procedure ComeSayHi()
+    begin
+        // Co-organiser: Auckland BC User Group · Directions Days of Knowledge ANZ
+    end;
+}
+```
 
 [![Blog](https://img.shields.io/badge/Blog-tharangac.com-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://tharangac.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tharangac-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharangac)
@@ -17,11 +40,13 @@ I started out as a .NET developer and moved into Dynamics NAV when most of my te
 
 ---
 
-## 🔭 Currently
+## 🔭 Currently at Equerra
 
-- 🤖 Designing and shipping **agents in Business Central** with the AI Toolkit, and helping teams move from *talking* about AI to actually adopting it
-- 🔌 Rethinking **integration architecture** for BC: Azure Integration Services, Logic Apps, and life after OData deprecation
-- 🎤 Planning the next **Days of Knowledge ANZ** after a sold-out 2026 in Melbourne
+- 🐟 **Industry solutions on Business Central.** Building our eqMeat, eqFish, eqFnB and eqProduce products for meat processors, seafood and aquaculture, food and beverage manufacturers, and fresh produce growers.
+- 🔌 **Integration architecture.** Connecting BC to the rest of the Microsoft stack with Azure Integration Services and Logic Apps, and moving customers off OData before it's deprecated.
+- 🤖 **AI in real projects.** Designing agents in BC with the AI Toolkit, rolling out Copilot, and building AI assistants such as Jono, the assistant behind our project estimator.
+- 🧑‍💻 **Leading the tech team.** Setting architecture and engineering standards so every build is done properly, not just done fast.
+- 🧭 **CTO-as-a-Service.** Helping businesses plan their technology roadmap when they don't have a CTO of their own.
 
 ## 🧭 How I work
 
