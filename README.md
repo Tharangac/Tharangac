@@ -59,11 +59,11 @@ codeunit 50100 "Tharanga Chandrasekara"
 ## 📝 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Directions EMEA 2026: What Is New for Business Central and What We Learned](https://tharangac.com/2026/11/directions-emea-2026-what-is-new-for-business-central-and-what-we-learned.html)
 - [Days of Knowledge ANZ: The Idea That Started in a LinkedIn Message](https://tharangac.com/2026/09/days-of-knowledge-anz-the-idea-that-started-in-a-linkedin-message.html)
 - [From Talking About AI to Adopting It: Why I Am Writing This Series](https://tharangac.com/2026/05/from-talking-about-ai-to-adopting-it-why-i-am-writing-this-series.html)
 - [Directions Asia 2026: Two Sessions, Four Standouts, and a Shift in How I Think About Our Craft](https://tharangac.com/2026/05/directions-asia-2026-two-sessions-four-standouts-and-a-shift-in-how-i-think-about-our-craft.html)
 - [OData Deprecation in Business Central: What Your Integration Architecture Needs Right Now](https://tharangac.com/2026/04/business-central-odata-deprecation-integration-architecture.html)
-- [The Long Road Toward a New Beginning](https://tharangac.com/2026/02/the-long-road-toward-a-new-beginning.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [tharangac.com](https://tharangac.com/blog)
